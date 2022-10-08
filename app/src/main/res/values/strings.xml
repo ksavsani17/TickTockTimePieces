@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">TickTockTimePieces</string>
+    <string name="Category">Category</string>
+    <string name="first_name">First Name</string>
+    <string name="register">Register</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="last_name">Last Name</string>
+    <string name="gender">Gender</string>
+    <string name="mobile_no">Mobile No.</string>
+    <string name="watches">Watches</string>
+    <string name="my_cart">My Cart</string>
+    <string name="Welcome_Guest">Welcome Guest</string>
+    <string name="Welcome">Welcome</string>
+    <string name="about">About</string>
+    <string name="watcheslibrary">Watches</string>
+    <string name="log_out">Log Out</string>
+    <string name="place_order">Place Order</string>
+    <string name="login">LOGIN</string>
+
+    <string name="emailReg">Email</string>
+    <string name="passwordReg">Password</string>
+    <string name="sign_upReg">Sign up</string>
+    <string name="sign_inLog">Sign in</string>
+    <string name="signin_redirect">Already a member? Sign in!</string>
+    <string name="signup_redirect">Don\'t have an account? Register here!</string>
+    <string name="sign_in_text_on_registration_activity">Sign in text on registration activity</string>
+    <string name="todo">TODO</string>
+    <string name="solanki_yogesh">Solanki Yogesh</string>
+    <string name="thanks_for_visit">Thanks For Visit</string>
+    <string name="solankiyogesh3500_gmail_com">Solankiyogesh3500@gmail.com</string>
+    <string name="_91_9904654107">+91 9904654107</string>
+    <string name="sy_yogesh">SY yogesh</string>
+    <string name="sydeveloper">SYDEVELOPER</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="skip">SKIP</string>
+    <string name="cart">Cart</string>
+    <string name="my_orders">My Orders</string>
+    <string name="order_detail">Order Detail</string>
+    <string name="rate_us">Rate Us</string>
+</resources>
